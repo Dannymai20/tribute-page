@@ -13,7 +13,7 @@ body {
     text-align: center;
     color:  white;
     margin: 0;
-    background: linear-gradient(black, #8C8C8C);
+    background: linear-gradient(black 25%, #8C8C8C 75%);
   }
 
 #main {
